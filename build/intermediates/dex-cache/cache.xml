@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\guava-r05.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="097fd3078118f05895ba5c3a95f3c335e2a2f34d">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\guava-r05_41a64edacec8d00399463b56bba74d31124d3744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ca31937f9be5f53018dd72b8637779d835d6c1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\gdata-contacts-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c18ad34f41a7591b1fec0770ba0fc0300bf5901e">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-contacts-3.0_d4a075810220566ddce4aa232d2bea33663eec11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_e7d7ab91a938d39a6e2b334fce14ceb8e9932dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\gdata-core-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ff0dba2ad4e59fdda638b00d6773f3e48b61e16">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-core-1.0_26b845a134d420625cee67bd784d8ab971178b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_e7181bc0337f8f601b5df64d3feace5a6da091cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\gdata-base-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2a5c4c2ac5b920de749592bc122fcd4ebd0c12c">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-base-1.0_a5c74818487f685c8364094d23d5974f7d42ae92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\gdata-client-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8dabe89dcae1a48a5bd16e899b19053193c52cc">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdata-client-1.0_e0d8ccb5dd980487507c5d8e218e7a5727d91062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_fdc1e9d7530445f9017cbc6f2475446cdd8453ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Falconnect apps\Scorer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="458a2cecb2f7d9059e0405594e1f69180926a3d3">
+        <dex dex="F:\Falconnect apps\Scorer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d8ad816ec8482a06305762e55ab63c76e3fc46fe\classes.dex" />
+    </item>
+
+</items>
